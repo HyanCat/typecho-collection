@@ -7,3 +7,9 @@
 [submodule "plugins/Typecho-MuPlayer"]
 	path = plugins/Typecho-MuPlayer
 	url = https://github.com/HyanCat/Typecho-MuPlayer.git
+[submodule "themes/LightClear"]
+	path = themes/LightClear
+	url = https://github.com/HyanCat/Typecho-LightClear.git
+[submodule "themes/Nicy"]
+	path = themes/Nicy
+	url = https://github.com/HyanCat/Typecho-Nicy.git
