@@ -1,11 +1,11 @@
 [submodule "plugins/Typecho-CodePrettify"]
-	path = plugins/Typecho-CodePrettify
+	path = plugins/CodePrettify
 	url = https://github.com/HyanCat/Typecho-CodePrettify.git
 [submodule "plugins/Typecho-GitHubShow"]
-	path = plugins/Typecho-GitHubShow
+	path = plugins/GitHubShow
 	url = https://github.com/HyanCat/Typecho-GitHubShow.git
 [submodule "plugins/Typecho-MuPlayer"]
-	path = plugins/Typecho-MuPlayer
+	path = plugins/MuPlayer
 	url = https://github.com/HyanCat/Typecho-MuPlayer.git
 [submodule "themes/LightClear"]
 	path = themes/LightClear
