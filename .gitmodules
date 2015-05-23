@@ -13,3 +13,6 @@
 [submodule "themes/Nicy"]
 	path = themes/Nicy
 	url = https://github.com/HyanCat/Typecho-Nicy.git
+[submodule "plugins/BOSUpload"]
+	path = plugins/BOSUpload
+	url = https://HyanCat@github.com/HyanCat/Typecho-BOSUpload.git
